@@ -43,7 +43,7 @@ Our platform consists of the following components:
 - ** (WIP) Map3 User Interface:**  
   The user interface allows users to locate and interact with retail establishments that participate in the Map3 protocol. Real-time transactions and benefits are visually represented on the map, fostering community engagement.
 
-- **User Flow [(Video Tutorial)](sarahspick.mp4):**
+- **User Flow:**
     1. Download the **Hide Me Please** app.
     2. Connect your Web3 wallet and register your NFTs.
     3. Navigate to participating restaurants and cafes.
@@ -66,11 +66,15 @@ In addition to the founders, our team consists of skilled designers and engineer
 
 
 ### Achievements to Date:
-- **Hide Me Please App:**  
-  Successfully launched with 10,000+ users from various NFT communities and 80 partnered restaurants and cafes, with 50+ daily active users who get benefits from our partnered spaces.  
-  
-- **Notable Partnerships:**  
-  Collaboration with **SK Networks Walkerhill Hotel** (2nd largest hotel chain in Korea) for a membership program and ongoing discussions with Seongdong District in Seoul.
+
+| Achievement       | Date | Detail  |
+|------------|-----|-------------|
+| Launched the Hide Me Please app (iOS/Android)   | June 2024  | Supported Wallets: Metamask, Klip, Phantom   |
+| Secured 30+ partner restaurants and cafes | August 2024  | Primarily in Seoul, Korea    |
+| Reached 40+ DAU  | September 2024   |      |
+| Collab with SK Networks Walkerhill Hotel  | September 2024  |  2nd largest hotel chain in Korea    |
+| Reached 50+ DAU  | October 2024   |      |
+| Secured 80+ partner restaurants and cafes  | October 2024  |   Expanding to Busan, Korea   |
 
 ---
 
