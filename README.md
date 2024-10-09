@@ -11,6 +11,10 @@ We are redefining NFT utility by partnering with restaurants and cafes to offer 
 
 With over a decade of experience running 5 different cafes and restaurants, we have successfully launched the **Hide Me Please** app, which allows users to unlock real-world benefits at our partnered venue. This NFT-friendly app already serves over 15,000 users from 100+ NFT communities, providing them with exclusive benefits at 80+ partnered restaurants, bars, and cafes. We’re a rapidly expanding company, adding 1 to 2 new affiliated cafes and restaurants every week while steadily growing our user base.
 
+<div align="center">
+<img src="hmp_app.png" alt="Alt text" width="400" height="700">
+</div>
+
 ---
 
 ## 2. Why: The Problem and Our Solution
@@ -32,12 +36,6 @@ Our platform consists of the following components:
 - **NFT Membership System:**  
   Users register their NFTs in the **Hide Me Please** app, turning them into digital membership cards that can be used for discounts and benefits at offline stores.
 
-<video width="640" height="360" controls>
-  <source src="sarahspick.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-  
 - ** (WIP) Map3 User Interface:**  
   The user interface allows users to locate and interact with retail establishments that participate in the Map3 protocol. Real-time transactions and benefits are visually represented on the map, fostering community engagement.
 
