@@ -46,7 +46,16 @@ Our platform consists of the following components:
 
 ## 4. Team and Achievements
 
-Our team has deep experience in both Web3 technologies and managing retail businesses. With over 10 years of operating restaurants and cafes, we understand how to effectively partner with retail establishments and create real-world integrations for digital assets.
+### Team:
+
+#### Dane Yu – Co-Founder & CEO
+With 10+ years managing restaurants, cafes, and bars, and a background in software engineering, Dane leads Map3 with a unique blend of hospitality and tech expertise.
+
+#### Eric Choi – Co-Founder, CTO/CSO
+Eric, a Harvard Data Science graduate (2020) with 5+ years in coding and data science, oversees Map3’s technical and data-driven strategies.
+
+In addition to the founders, our team consists of skilled designers and engineers build Map3's core products, including the NFT membership iOS/Android apps and the Map3 website.
+
 
 ### Achievements to Date:
 - **Hide Me Please App:**  
@@ -62,10 +71,13 @@ Our team has deep experience in both Web3 technologies and managing retail busin
 ### Q4 2024:
 - Support Metis adoption by creating an NFT collection on the **Metis Layer 2 blockchain**. NFT holders will be able to access exclusive benefits such as discounts, free items, and special experiences at our partnered restaurants and cafes, helping drive real-world utility and awareness of the Metis ecosystem.
 - Partner with **100+ locations** in total and grow to hundreds of daily active users, driving greater engagement between NFT holders and real-world businesses.
-- Launch **Map3 Protocol** with existing NFT partnerships, enabling real-time visualization of user transactions.
+- Launch the **English version** of the Hide Me Please app.
+- Launch **Map3 Website** with existing NFT partnerships, enabling real-time visualization of user transactions.
+
 
 ### Q1 2025:
 - Utilize the **Map3 Protocol** to display real-time user activity on the Metis blockchain, highlighting user interactions with NFT and the access to benefits, accelerating Metis adoption through tangible, real-world use cases.
+- Implement a wallet with seamless integration into the Metis blockchain, enabling Metis users to access discounts and benefits directly through our app.
 - Reach **1,000 active users** and onboard an additional **50 retail establishments** globally.
 - Expand **Hide Me Please** to include more Web3 integrations with a focus on **Visit to Earn tokenomics**, incentivizing users to interact with partnered stores.
 - Partner with key tourism boards to implement **NFT-based membership programs** for travelers arriving in major cities like New York and Paris.
