@@ -27,6 +27,10 @@ Map3 Protocol bridges this gap by offering **real-world utility for NFTs**. Our 
 
 This integration extends the utility of NFTs beyond the digital world, allowing holders to see tangible benefits on their digital investments. Moreover, by using **Web3 technology**, we create a transparent, decentralized map of user activity that allows real-time data recording for better community and business engagement.
 
+<div align="center">
+<img src="listofplaces.jpg" alt="Alt text" width="400" height="700">
+</div>
+
 ---
 
 ## 3. System Architecture
@@ -39,7 +43,7 @@ Our platform consists of the following components:
 - ** (WIP) Map3 User Interface:**  
   The user interface allows users to locate and interact with retail establishments that participate in the Map3 protocol. Real-time transactions and benefits are visually represented on the map, fostering community engagement.
 
-- **User Flow:**
+- **User Flow [(Video Tutorial)](sarahspick.mp4):**
     1. Download the **Hide Me Please** app.
     2. Connect your Web3 wallet and register your NFTs.
     3. Navigate to participating restaurants and cafes.
