@@ -32,7 +32,7 @@ Our platform consists of the following components:
 - **NFT Membership System:**  
   Users register their NFTs in the **Hide Me Please** app, turning them into digital membership cards that can be used for discounts and benefits at offline stores.
 
-  <video width="640" height="360" controls>
+<video width="640" height="360" controls>
   <source src="sarahspick.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
