@@ -62,7 +62,7 @@ With 10+ years managing restaurants, cafes, and bars, and a background in softwa
 #### Eric Choi – Co-Founder, CTO/CSO
 Eric, a Harvard Data Science graduate (2020) with 5+ years in coding and data science, oversees Map3’s technical and data-driven strategies.
 
-In addition to the founders, our team consists of skilled designers and engineers build Map3's core products, including the NFT membership iOS/Android apps and the Map3 website.
+In addition to the founders, our team consists of skilled designers and engineers who build Map3's core products, including the NFT membership iOS/Android apps and the Map3 website.
 
 
 ### Achievements to Date:
